@@ -1,4 +1,4 @@
-<p> <img src="https://komarev.com/ghpvc/?username=NaviRocker&label=Profile%20views&color=blue&style=flat" alt="NaviRocker" align="right />  </p>                                                                                                                             
+<p align="right> <img src="https://komarev.com/ghpvc/?username=NaviRocker&label=Profile%20views&color=blue&style=flat" alt="NaviRocker"/> </p>                                                                                                                             
 ## Hi there! I am Naveen Rajan 👋
 
 
