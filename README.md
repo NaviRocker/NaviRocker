@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/NaviRocker">
-  <img src="https://github-profile-trophy.vercel.app/?username=NaviRocker&theme=juicyfresh&no-bg=true&rank=S,AAA,AA,A,B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NaviRocker&theme=juicyfresh&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B" />
 </a>
 </p>
