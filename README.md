@@ -1,4 +1,4 @@
-### Hi there 👋 I am Naveen Rajan!
+### Hi there! I am Naveen Rajan 👋
 
 <!--
 **NaviRocker/NaviRocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
