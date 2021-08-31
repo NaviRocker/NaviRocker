@@ -35,3 +35,14 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=NaviRocker&theme=juicyfresh&title=Organizations,PullRequest,Issues,Followers,Commit,Repositories" />
 </a>
 </p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://code2climb.com"><img src="https://img.shields.io/badge/-code2climb.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/naviir/"><img src="https://img.shields.io/badge/-Naveen%20Rajan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:naveen.sack@gmail.com"><img src="https://img.shields.io/badge/-naveen.sack@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/navii__x"><img src="https://img.shields.io/badge/-@navii__x-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/NaviiRocker/"><img src="https://img.shields.io/badge/-@NaviiRocker-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.gitlab.com/NaviRocker"><img src="https://img.shields.io/badge/-@NaviRocker-1769FF?style=flat&logo=Gitlab&logoColor=white"/></a>
+</p>
