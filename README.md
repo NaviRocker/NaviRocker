@@ -1,7 +1,7 @@
 ### Hi there! I am Naveen Rajan 👋
 
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{NaviRocker}/count.svg" alt="NaviRocker :: Visitor's Count" /></p>
+<h4 align="right">Visitor's count :eyes:</h4>
+<p align="right"><img src="https://profile-counter.glitch.me/{NaviRocker}/count.svg" alt="NaviRocker :: Visitor's Count" /></p>
 
 <!--
 **NaviRocker/NaviRocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
