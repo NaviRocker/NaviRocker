@@ -46,3 +46,10 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/NaviiRocker/"><img src="https://img.shields.io/badge/-@NaviiRocker-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.gitlab.com/NaviRocker"><img src="https://img.shields.io/badge/-@NaviRocker-1769FF?style=flat&logo=Gitlab&logoColor=white"/></a>
 </p>
+
+### 📕 My Latest Blog posts:
+
+- [Inside Google Headquarters in Silicon Valley](https://code2climb.com/posts/inside-google-headquarters-in-silicon-valley/)
+- [Elon Musk: A Sensational Man in a Roller Coaster Ride](https://code2climb.com/posts/elon-musk-a-sensational-man-in-a-roller-coaster-ride/)
+- [Cristiano Ronaldo: The Survival of the Fittest](https://code2climb.com/posts/cristiano-ronaldo-the-survival-of-the-fittest/)
+- [First Time Flying Experience in an Airplane](https://code2climb.com/posts/first-time-flying-experience-in-an-airplane/)
