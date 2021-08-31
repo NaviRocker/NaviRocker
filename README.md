@@ -25,4 +25,9 @@ Here are some ideas to get you started:
 </p>
 
 ### 🏆 &nbsp;GitHub Personal Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=NaviRocker&theme=juicyfresh&no-bg=true" />
+
+<p align="center">
+<a href="https://github.com/NaviRocker">
+  <img src="https://github-profile-trophy.vercel.app/?username=NaviRocker&theme=juicyfresh&no-bg=true" />
+</a>
+</p>
