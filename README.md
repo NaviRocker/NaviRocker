@@ -1,6 +1,6 @@
-<p align="right> <img src="https://komarev.com/ghpvc/?username=NaviRocker&label=Profile%20views&color=blue&style=flat" alt="NaviRocker"/> </p>                                                                                                                             
+<h4 align="right">Visitor's count :eyes:</h4>
+<img alt="NaviRocker :: Visitor's Count" src="https://profile-counter.glitch.me/{NaviRocker}/count.svg" align="right"/>                                                                                                                            
 ## Hi there! I am Naveen Rajan 👋
-
 
 <!--
 **NaviRocker/NaviRocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
