@@ -3,7 +3,7 @@
 <h4 align="right">Visitor's count :eyes:</h4>
 <img alt="NaviRocker :: Visitor's Count" src="https://profile-counter.glitch.me/{NaviRocker}/count.svg" align="right"/>
 
-# For those who do 😎
+### For those who do 😎
 
 <!--
 **NaviRocker/NaviRocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
