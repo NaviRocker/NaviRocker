@@ -41,6 +41,9 @@ Here are some ideas to get you started:
 ### 🏆 Github Statistics
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ### 🤝🏻 &nbsp;Connect with Me
