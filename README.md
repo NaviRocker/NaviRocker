@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 
 ### 🏆 Github Statistics
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
