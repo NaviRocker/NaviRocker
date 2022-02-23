@@ -42,7 +42,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+PHP        1 hr 35 mins    █████████████████▒░░░░░░░   69.69 % 
+C          27 mins         █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+HTML       6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+CSS        6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 <!--END_SECTION:waka-->
 
