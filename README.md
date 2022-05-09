@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+HTML   1 hr 32 mins    █████████████████████▓░░░   86.25 %
+CSS    12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
+SCSS   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
 ```
 
 <!--END_SECTION:waka-->
