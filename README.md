@@ -43,12 +43,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-HTML              1 hr 42 mins    ████████████████▓░░░░░░░░   66.01 %
-CSS               26 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
-PHP               22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
-SCSS              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-JavaScript        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Gettext Catalog   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+PHP               22 mins         ███████████▓░░░░░░░░░░░░░   47.09 %
+CSS               14 mins         ███████▒░░░░░░░░░░░░░░░░░   29.41 %
+HTML              10 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.45 %
+JavaScript        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Gettext Catalog   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
