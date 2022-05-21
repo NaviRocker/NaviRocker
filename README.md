@@ -43,8 +43,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-HTML   10 mins         ██████████████████░░░░░░░   72.25 %
-CSS    3 mins          ███████░░░░░░░░░░░░░░░░░░   27.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
