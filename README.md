@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-SQL   2 mins          █████████████████████████   100.00 %
+JavaScript   13 mins         ████████████████████▓░░░░   82.11 %
+SQL          2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
