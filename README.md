@@ -43,8 +43,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java    5 mins          ████████████████████████░   96.04 %
-Other   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
