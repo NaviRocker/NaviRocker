@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-PHP   0 secs          █████████████████████████   100.00 %
+C     15 mins         █████████████▓░░░░░░░░░░░   54.62 %
+PHP   12 mins         ███████████▒░░░░░░░░░░░░░   45.38 %
+CSS   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
