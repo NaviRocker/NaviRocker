@@ -43,8 +43,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C       3 mins          ███████████████████████░░   91.85 %
-Other   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+Java    12 mins         ███████████████████▓░░░░░   78.41 %
+C       3 mins          █████░░░░░░░░░░░░░░░░░░░░   19.83 %
+Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 ```
 
 <!--END_SECTION:waka-->
