@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+PHP             22 mins         █████████████████▓░░░░░░░   70.44 %
+Apache Config   9 mins          ███████▒░░░░░░░░░░░░░░░░░   29.21 %
+Other           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
