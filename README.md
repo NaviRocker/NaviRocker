@@ -43,11 +43,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-PHP             45 mins         ████████████████████▒░░░░   81.31 %
-Apache Config   9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
-JavaScript      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-CSS             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Other           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+PHP             1 hr 47 mins    ███████████████████▒░░░░░   77.15 %
+Apache Config   29 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.27 %
+Other           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
