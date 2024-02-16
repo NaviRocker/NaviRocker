@@ -51,7 +51,7 @@ No activity tracked
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://code2climb.com"><img src="https://img.shields.io/badge/-code2climb.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://medium.com/@JustNaveenThings"><img src="https://img.shields.io/badge/-Just%20Naveen%20Things-3423A6?style=flat&logo=Medium&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/naviir/"><img src="https://img.shields.io/badge/-Naveen%20Rajan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:naveen.sack@gmail.com"><img src="https://img.shields.io/badge/-naveen.sack@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/navii__x"><img src="https://img.shields.io/badge/-@navii__x-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
@@ -61,7 +61,7 @@ No activity tracked
 
 ### 📕 My Latest Blog posts:
 
-- [Inside Google Headquarters in Silicon Valley](https://code2climb.com/posts/inside-google-headquarters-in-silicon-valley/)
-- [Elon Musk: A Sensational Man in a Roller Coaster Ride](https://code2climb.com/posts/elon-musk-a-sensational-man-in-a-roller-coaster-ride/)
-- [Cristiano Ronaldo: The Survival of the Fittest](https://code2climb.com/posts/cristiano-ronaldo-the-survival-of-the-fittest/)
-- [First Time Flying Experience in an Airplane](https://code2climb.com/posts/first-time-flying-experience-in-an-airplane/)
+- [Saying Goodbye to the Year of Failures](https://medium.com/@JustNaveenThings/saying-goodbye-to-the-year-of-failures-c40e7bddea2c)
+- [Well, I have a Weakness…](https://medium.com/@JustNaveenThings/well-i-have-a-weakness-25fdfd319907)
+- [It’s time for Ballerina!](https://medium.com/@JustNaveenThings/its-time-for-ballerina-7c773c3bfe7)
+- [WTF is LaTeX?](https://medium.com/@JustNaveenThings/wtf-is-latex-e6addc02864c)
